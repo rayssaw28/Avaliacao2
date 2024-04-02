@@ -22,7 +22,7 @@ import java.util.List;
 /**
 *@author Rayssa Alves <rayssaalves.go@gmail.com> & Cristian Vilela <cvilela306@gmail.com>
 *@data 01/04/2024
-*@brief class Aluno
+*@brief class Estoque
 */
 
 public class Estoque {
