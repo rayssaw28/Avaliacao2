@@ -20,7 +20,7 @@ package EX3;
 /**
 *@author Rayssa Alves <rayssaalves.go@gmail.com> & Cristian Vilela <cvilela306@gmail.com>
 *@data 01/04/2024
-*@brief class Aluno
+*@brief class Album 
 */
 
 public class Album extends Produto { // HERANÇA. herda as caracteristicas da classe Poduto
